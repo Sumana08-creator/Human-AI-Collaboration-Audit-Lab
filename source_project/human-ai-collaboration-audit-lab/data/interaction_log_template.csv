@@ -1,0 +1,2 @@
+﻿scenario_id,condition,run_id,model_name_version,run_date_utc,prompt_text,initial_output,feedback_prompt,revised_output,reviewer_id,accuracy_score,evidence_fidelity_score,completeness_score,traceability_score,correction_success_score,unsupported_claim_count,error_types,review_notes,protocol_deviation
+,,,,,,,,,,,,,,,,,,
